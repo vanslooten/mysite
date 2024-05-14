@@ -1,2 +1,2 @@
 # mysite
-My personal website
+Small demo site for personal use
