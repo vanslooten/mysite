@@ -1,0 +1,23 @@
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("img/coffeehouse.jpg");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
+
+.w3-sand, .w3-hover-sand:hover {
+    /*color: #c69606!important;*/
+}
+
+.w3-badge, .w3-tag, .w3-black, .w3-hover-black:hover {
+    background-color: #a34407!important;
+}
